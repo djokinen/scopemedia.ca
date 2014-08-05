@@ -1,0 +1,53 @@
+﻿body {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+p {
+	font-size: large;
+	font-family: 'Times New Roman',Georgia, serif;
+}
+
+body, a {
+	color: #666;
+}
+
+h1, span {
+	color: #ff4d00;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.contact > a {
+	margin-right: 1em;
+}
+
+h1 {
+	font-size: 3em;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.container {
+	max-width: 660px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo {
+	padding-top: 1.5em;
+	text-align: right;
+	font-style: italic;
+}
+
+	.logo span {
+		position: relative;
+		bottom: 8px;
+	}
+
+.legal {
+	color: #ddd;
+	font-size: small;
+	text-align: center;
+}
